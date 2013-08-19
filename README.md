@@ -1,3 +1,3 @@
 stripedTables
 =============
-This
+This script demonstrates how to make striped table
