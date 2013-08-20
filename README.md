@@ -19,9 +19,9 @@ Parameters:
 Usage example:
 
 	In <head> block include next code
-	<script type="text/javascript">
-		$(document).ready(function)()
-			{
-				$.stripedTable('table','striped',0,0);
-			}
-	</script>
+	*<script type="text/javascript">*
+		*$(document).ready(function)()*
+			*{*
+				*$.stripedTable('table','striped',0,0);*
+			*}*
+	*</script>*
