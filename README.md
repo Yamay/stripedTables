@@ -1,5 +1,5 @@
-stripedTables
--------------
+Striped Tables
+-------------- 
 This script demonstrates a way of create striped tables
 
 See it in action at address
@@ -21,8 +21,9 @@ Usage example:
 	In <head> block include next code
 
 	<script type="text/javascript">
-		$(document).ready(function)()
+		$(document).ready(function()
 			{
 				$.stripedTable('table','striped',0,0);
 			}
+		);
 	</script>
