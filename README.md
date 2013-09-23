@@ -1,4 +1,4 @@
-Vertical Striped Tables
+Vertically Striped Tables
 -------------- 
 This script demonstrates a way of create striped tables
 
