@@ -3,7 +3,7 @@ Vertically Striped Tables
 This script demonstrates a way of create striped tables
 
 See it in action at address
-[yamay.github.com](http://yamay.github.io)
+[yamay.github.io](http://yamay.github.io)
 
 You can get effect of striped tables through using function:
 
